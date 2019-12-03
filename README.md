@@ -17,8 +17,8 @@ If you use the material in your work, please cite our paper. __BibTeX entry:__
 ```
 
 ## Contents
-* tsne\_plot\_kdd_dshealth2019.ipynb Jupyter notebook to generate the t-SNE plot.
-* Data/ folder containing the Word2Vec embeddings for the LOINC codes as well as other files used to produce the *t*-SNE plot
+* **tsne\_plot\_kdd_dshealth2019.ipynb** Jupyter notebook to generate the t-SNE plot.
+* **Data/** folder containing the Word2Vec embeddings for the LOINC codes as well as other files used to produce the *t*-SNE plot
 
 **Note** you need to downlload the official LOINC CSV Table from [loing.org](https://loinc.org). The table file is necessary to provide a taxonomy of the LOINC codes and hence the classes showed in different colors in the scatter plot.
 
