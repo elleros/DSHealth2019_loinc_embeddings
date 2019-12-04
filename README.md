@@ -4,7 +4,7 @@ This repository provides the Python code and the Word2Vec embeddings to reproduc
 
 The embeddings have been trained via Word2Vec skip-gram with EHR data from the [City of Hope National Medical Center](https://www.cityofhope.org/homepage). See paper for details on the training.
 
-If you produce interesting visualizations of the embeddings, email me at lorenzo**\[dot\]**rossi**\[at\]**gmail.com (lrossi**\[at\]**coh.org).
+If you produce interesting visualizations of the embeddings, email me at lorenzo **\[dot\]** rossi **\[at\]** gmail.com (lrossi **\[at\]** coh.org).
 
 ## Citation
 If you use the material in your work, please cite our paper. __BibTeX entry:__
@@ -32,5 +32,3 @@ If you use the material in your work, please cite our paper. __BibTeX entry:__
 * Review and check the review the Copyright and Terms of Use note
 * Click on 'Download': a zip archive will be downloaded on your machine
 * Extraxct Loinc.csv from the archive
-
-
