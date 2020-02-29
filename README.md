@@ -29,6 +29,6 @@ If you use the material in your work, please cite our paper. __BibTeX entry:__
 * Click on 'Downloads' (menu at the top of the page)
 * Click on 'LOINC Table'
 * Click on 'LOINC Table File (CSV)'
-* Review and check the review the Copyright and Terms of Use note
+* Review and check the the Copyright and Terms of Use note
 * Click on 'Download': a zip archive will be downloaded on your machine
 * Extraxct Loinc.csv from the archive
